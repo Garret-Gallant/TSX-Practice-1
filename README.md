@@ -1,0 +1,1 @@
+A repository utilizing axios and typescript to reflect accurate design patterns for variable assignment and backend requests
