@@ -18,7 +18,7 @@ Primitive types in TS:
   <li>string</li>
   <li>symbol</li>
 </ul>
-<br/>
+
 Object types in TS:
 <ul>
   <li>function</li>
