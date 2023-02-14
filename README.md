@@ -1,4 +1,6 @@
-# A repository utilizing axios and typescript to reflect accurate design patterns for variable assignment and backend requests
+# Intro to TS; Gives ideas for what code is doing more clearly than normal JS
+
+A repository utilizing axios and typescript to reflect accurate design patterns for variable assignment and backend requests
 
 Commands to know: 
 <ul>
